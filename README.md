@@ -29,8 +29,6 @@ World Site uses modern static web development standards for speed and reliabilit
 1. Clone the repository.
 2. Open index.html in a web browser.
 
-Live Demo: https://ziadtaham.github.io/world-site/
-
 ---
 
 High-fidelity digital publication engine for global storytelling.
